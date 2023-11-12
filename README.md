@@ -49,7 +49,7 @@ where `m` is the number of turbines to place on the wind farm, `n_wind` is the w
 
 `pasqal_hybrid` supports currently two samplers: `PasqalQAOAProblemSampler` and `PasqalQAAProblemSampler` along with their classes for solving subproblems. These can be used in the `main.py` (line 316). `pasqal_utils` has functions to embed QUBO on neutral atoms using classical optimization (Nelder-mead).
 
-**Note:** See the document for results and analysis.
+**Note:** See the [document](https://github.com/rakeshy32/wflo-neutral-atoms/blob/dev/report.pdf) for results and analysis.
 
 # References
 
